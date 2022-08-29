@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, seja bem vindo a Miaumarro! 
+
+![image](https://user-images.githubusercontent.com/97711262/187235221-e0623d01-db32-4dc1-b823-7b288c3a0932.png)
 
 <!--
 
@@ -10,3 +12,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+### Sobre
+A Miaumarro é um petshop virtual que veio para facilitar a vida dos donos de pets. Nela você pode encontrar os mais diversos produtos para os seus bichinhos, além de agendar serviços de banho e tosa.
+O projeto foi desenvolvido como trabalho final do curso de Formação Fullstack C# .NET da Digital House em parceria com o Mercado Eletrônico.
