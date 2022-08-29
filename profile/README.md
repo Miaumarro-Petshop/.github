@@ -16,3 +16,7 @@
 ### Sobre
 A Miaumarro é um petshop virtual que veio para facilitar a vida dos donos de pets. Nela você pode encontrar os mais diversos produtos para os seus bichinhos, além de agendar serviços de banho e tosa.
 O projeto foi desenvolvido como trabalho final do curso de Formação Fullstack C# .NET da Digital House em parceria com o Mercado Eletrônico.
+
+
+https://user-images.githubusercontent.com/73367372/187242666-a06c04cf-2061-4477-aec7-d01e3fb1d536.mp4
+
